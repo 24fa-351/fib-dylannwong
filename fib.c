@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-int fibbi(int n) {
+int fibbi (int n) {
 
       int num1 = 0;
       int num2 = 1;
